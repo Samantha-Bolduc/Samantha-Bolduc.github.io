@@ -1,0 +1,27 @@
+h1 {
+	color: aquamarine;
+	font-size: 25pt;
+	font-weight: bold;
+	font-family: "Rochester", cursive; 
+	}
+body {
+	background: grey;
+	color: pink;
+	font-size: 15pt;
+	font-family: "The Girl Next Door", cursive;
+	}
+	
+nav li {
+	display: inline-block;
+	border: 2px solid black 
+	padding: 5px
+	margin: 15px 
+	background: white
+	 }
+	 
+	a {color: dark pink;
+	text-decoration: underline;
+	a:hover color: white}
+	
+	
+	
